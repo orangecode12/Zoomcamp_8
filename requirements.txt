@@ -1,0 +1,7 @@
+numpy 
+scikit-learn 
+wget 
+matplotlib 
+ipywidgets 
+ipykernel
+tensorflow
